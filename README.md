@@ -3,6 +3,7 @@ All provinces and districts in Turkey (2022)
 
 # Table Design
 
+```sql
 CREATE TABLE [Province] (
 	[id] [int] IDENTITY(1,1) NOT NULL,
 	[Title] [nvarchar](50) NULL
@@ -13,3 +14,4 @@ CREATE TABLE [District] (
 	[ProvinceID] [int] NULL,
 	[Title] [nvarchar](50) NULL
 )
+```
