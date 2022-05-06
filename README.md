@@ -1,5 +1,6 @@
-# Turkey-Provinces
-All provinces and districts in Turkey (2022)
+# TurkeyProvinces-2022
+
+All provinces and districts in Turkey (2022) within sql and json format
 
 # Design
 
