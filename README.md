@@ -1,7 +1,7 @@
 # Turkey-Provinces
 All provinces and districts in Turkey (2022)
 
-# Table Design
+# Design
 
 ```sql
 CREATE TABLE [Province] (
